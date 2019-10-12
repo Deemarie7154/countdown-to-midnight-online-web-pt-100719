@@ -21,4 +21,3 @@ puts "#{num} SECOND(S)!"
   
   
   
-end
