@@ -7,3 +7,5 @@ puts "#{num} SECOND(S)!"
   end
   return "HAPPY NEW YEAR!"
  end
+
+
